@@ -1,0 +1,36 @@
+path {
+  stroke: white;
+  stroke-width: 0.25px;
+  fill: black;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+.mapDiv {
+  margin: 0;
+  padding: 0;
+  background-color: #2B65EC;
+}
+
+.bubble {
+  stroke: red;
+  fill: none;
+}
+
+div.tooltip {
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding: 5px;
+  font: 1em sans-serif;
+  background: gray;
+  border: 0px;
+  border-radius: 6px;
+  pointer-events: none;
+  white-space: nowrap;
+}
