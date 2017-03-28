@@ -87,4 +87,5 @@ d3.json("https://raw.githubusercontent.com/shintouki/uploaded-files/master/world
 });
 
 // References
+// I used the following reference for getting world map to show and zoom to work:
 // http://bl.ocks.org/d3noob/5189284
