@@ -1,6 +1,6 @@
 Meteorite Landings With d3
 
-https://tshin1.github.io/meteorite-landings-with-d3/
+https://tshin7.github.io/meteorite-landings-with-d3/
 
 I used geoJSON to provide world map data.
 
